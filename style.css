@@ -1,0 +1,32 @@
+body{
+    /* background-color: #143d60; */
+    background-image: url(/pic/back2.jfif);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+h1{
+    color: white;
+    padding-left: 10%;
+    /* background-color: aqua; */
+    /* height: 22px; */
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 600;
+}
+#panel{
+    /* display: flex;    */
+    color: rgb(203, 255, 255);
+    /* background-color: red; */
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    /* flex-direction: column; */
+}
+/* #output{
+    background-color: #456277;
+    width: 870px;
+    height: 200px;
+    margin-left: 1%;
+} */
